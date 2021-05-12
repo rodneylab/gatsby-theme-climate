@@ -1,3 +1,5 @@
+<img src="./images/rodneylab-github-gatsby-theme-climate.png" alt="Rodney Lab gatsby-functions-fauna Github banner">
+
 <p align="center">
   <a aria-label="Open Rodney Lab site" href="https://rodneylab.com" rel="nofollow noopener noreferrer">
     <img alt="Rodney Lab logo" src="https://rodneylab.com/assets/icon.png" width="60" />
@@ -18,7 +20,7 @@ Boilerpate code for a <a aria-label="Vist the Gatsby website" href="https://www.
 Features:
 - Optimised for Gatsby 3 - using File Route API, new Gatsby 3 Image Plugin
 - 100% score of Lighthouse accessibility 
-- No accessibility warning on axe check
+- Axe clean &mdash; no accessibility warnings on running axe tool
 - High lighthouse speed scores
 - A or higher security rating for headers from securityheaders.com
 - Correct use of semantic HTML (only one `<h1>` per page, sections and posts use `<section>` and `<article>` correctly etc.).
@@ -39,7 +41,7 @@ npm install gatsby-theme-climate gatsby react react-dom
 or
 
 ```bash
-yarn add gatsb-theme-catalyst gatsby react react-dom
+yarn add gatsby-theme-climate gatsby react react-dom
 ```
 
 ## Available Options
@@ -68,4 +70,4 @@ gatsby develop
 
 ## How to Contribute
 
-Please see [CONTRIBUTING.md](https://github.com/rodneylab/gatsby-theme-climate/blob/main/CONTRIBUTING.md)
+Please see [CONTRIBUTING.md](https://github.com/rodneylab/gatsby-theme-climate/blob/main/.github/CONTRIBUTING.md)
