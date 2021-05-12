@@ -2,6 +2,13 @@
 
 ### Fix
 
+- **package.json**: ✅ bumped version
+
+## 0.2.1 (2021-05-12)
+
+### Fix
+
+- **.cz.json**: ✅ corrected version
 - 🐞 removed preinstall script
 - **dependencies**: 💫 updated packages
 - updated CSP headings
