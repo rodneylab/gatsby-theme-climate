@@ -1,8 +1,13 @@
-## Unreleased
+## 0.3.0 (2021-05-13)
 
 ### Fix
 
+- ✅ updated home page
 - **package.json**: ✅ bumped version
+
+### Feat
+
+- **Heading**: ✨ adding Heading component with scroll to anchor
 
 ## 0.2.1 (2021-05-12)
 
