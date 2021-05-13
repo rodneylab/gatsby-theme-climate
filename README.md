@@ -1,4 +1,4 @@
-<img src="./images/rodneylab-github-gatsby-theme-climate.png" alt="Rodney Lab gatsby-functions-fauna Github banner">
+<img src="https://github.com/rodneylab/gatsby-theme-climate/blob/main/images/rodneylab-github-gatsby-theme-climate.png">
 
 <p align="center">
   <a aria-label="Open Rodney Lab site" href="https://rodneylab.com" rel="nofollow noopener noreferrer">
