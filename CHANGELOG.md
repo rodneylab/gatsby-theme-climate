@@ -1,3 +1,9 @@
+## 1.0.0 (2021-05-13)
+
+### Fix
+
+- 🛁 clean out superfluous components
+
 ## 0.3.1 (2021-05-13)
 
 ### Fix
