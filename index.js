@@ -1,3 +1,1 @@
-import Heading from './src/components/Heading';
-
-export default { Heading };
+export { default as Heading } from './src/components/Heading';
