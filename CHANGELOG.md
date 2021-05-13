@@ -1,3 +1,9 @@
+## 1.0.1 (2021-05-13)
+
+### Fix
+
+- **gatsby-config.js**: 🛁 clean out superfluous config
+
 ## 1.0.0 (2021-05-13)
 
 ### Fix
